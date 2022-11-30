@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="list_fragment_label">Popüler Filmler</string>
+    <string name="error_text">Bağlantı hatası oldu. Lütfen tekrar deneyin</string>
+    <string name="search_text">Arama</string>
+    <string name="separator">|</string>
+    <string name="duration">Süre</string>
+    <string name="year">Yıl</string>
+    <string name="language">Dil</string>
+    <string name="rating">Puan</string>
+    <string name="plot">Hikaye</string>
+    <string name="director">Yönetmen</string>
+    <string name="writer">Yazar</string>
+    <string name="actors">Oyuncular</string>
+    <string name="country">Ülke</string>
+    <string name="box_office">Hasılat</string>
+    <string name="movie_poster_description">Film Poster</string>
+    <string name="page">Sayfa %1$d</string>
+</resources>
